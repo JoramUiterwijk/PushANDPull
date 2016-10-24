@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Jermaine's-Scene.unity
+- path: Assets/Scenes/Jermaine's-Scene.unity
   isLoaded: 1
   isActive: 1
